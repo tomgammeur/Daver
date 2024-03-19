@@ -1,0 +1,153 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v603_128 {
+  width: 100%;
+  height: 720px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v603_129 {
+  width: 100%;
+  height: 721px;
+  background: url("../images/v603_129.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 143px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v603_131 {
+  width: 100%;
+  height: 683px;
+  background: linear-gradient(rgba(217,217,217,1), rgba(115,115,115,1));
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 168px;
+  border-top-left-radius: 21px;
+  border-top-right-radius: 21px;
+  border-bottom-left-radius: 21px;
+  border-bottom-right-radius: 21px;
+  overflow: hidden;
+}
+.v603_134 {
+  width: 144px;
+  height: 658px;
+  background: linear-gradient(rgba(255,0,0,1), rgba(5,0,255,1));
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v603_135 {
+  width: 144px;
+  height: 72px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  overflow: hidden;
+}
+.v603_136 {
+  width: 141px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  font-family: Fugaz One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v603_138 {
+  width: 18px;
+  height: 17px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 22px;
+  border-radius: 50%;
+}
+.v603_143 {
+  width: 290px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 200px;
+  left: 297px;
+  font-family: Baloo Bhaijaan;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v603_149 {
+  width: 68px;
+  color: rgba(57,57,57,1);
+  position: absolute;
+  top: 55px;
+  left: 298px;
+  font-family: Baloo Bhaijaan;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: left;
+}
+.v603_150 {
+  width: 69px;
+  color: rgba(57,57,57,1);
+  position: absolute;
+  top: 157px;
+  left: 297px;
+  font-family: Baloo Bhaijaan;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: left;
+}
+.v603_151 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 84px;
+  left: 298px;
+  font-family: Baloo Bhaijaan;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
