@@ -41,7 +41,7 @@ Daver est votre partenaire de confiance pour une gestion efficace et sécurisée
 Site d'acceuil :
 https://gestion-des-serveurs-fao7obz.gamma.site/
 
-Site du projet Figma :
+Projet Figma / Concept du tableau de bord :
 https://www.figma.com/proto/79xRGB7paWMqOIlqIw0loj/Figma-basics?type=design&node-id=4368-321039&t=0JDkgGgsF9FTHNR5-0&scaling=min-zoom&page-id=1669%3A162202
 
 —- 
